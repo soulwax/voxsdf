@@ -1,0 +1,11 @@
+name: voxsdf
+description: "Pure Dart signed distance field engine: CSG primitives, smooth boolean brushes, trilinear SDF voxel grids, sphere-tracing raymarcher, and Surface Nets isosurface meshing."
+version: 0.1.0
+repository: https://github.com/soulwax/voxsdf
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
